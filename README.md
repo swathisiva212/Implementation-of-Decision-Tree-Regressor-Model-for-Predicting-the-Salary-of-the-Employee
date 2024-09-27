@@ -9,12 +9,19 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1.Import the standard libraries.
+
 2.Upload the dataset and check for any null values using .isnull() function.
+
 3.Import LabelEncoder and encode the dataset.
+
 4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset.
+
 5.Predict the values of arrays.
+
 6.Import metrics from sklearn and calculate the MSE and R2 of the model on the dataset.
+
 7.Predict the values of array.
+
 8.Apply to new unknown values.
 ## Program:
 ```
@@ -58,15 +65,19 @@ plt.show()
 ## Output:
 
 HEAD(), INFO() & NULL():
+
 ![image](https://github.com/user-attachments/assets/d960e88c-4ec4-494b-a8f0-0d774c862361)
 
 Converting string literals to numerical values using label encoder:
+
 ![image](https://github.com/user-attachments/assets/6cacba58-7a57-49f5-bb59-e1d8d60bbeea)
 
 MEAN SQUARED ERROR:
+
 ![image](https://github.com/user-attachments/assets/391fcaeb-f27a-478b-a4a0-3074d9fe36d8)
 
 R2 (Variance):
+
 ![image](https://github.com/user-attachments/assets/a346b25e-b23e-4bb0-8d3e-9d50ed4ab303)
 
 DATA PREDICTION & DECISION TREE REGRESSOR FOR PREDICTING THE SALARY OF THE EMPLOYEE:
